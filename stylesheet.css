@@ -75,7 +75,7 @@ header a:hover{
 /* 2番目の塊 */
 .above{
   height:600px;
-  background-image:url(https://github.com/ASANONIJIROU/freelance-webengineer/blob/master/frozen-ice-snowflake-ice.jpg?raw=true);
+  background-image:url(https://raw.githubusercontent.com/ASANONIJIROU/freelance-webengineer/master/frozen-ice-snowflake-ice.jpg);
   background-size:cover;
   color:white;
 }
